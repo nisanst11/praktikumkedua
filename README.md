@@ -11,7 +11,8 @@ print("Hello")
 ```
 Outputnya akan seperti ini
 
-![gambar1](gambar/aku1.png)
+![gambar1](latihan1/![aku1](https://user-images.githubusercontent.com/115933474/197399213-085ab4ad-1af0-4152-8651-84549aa62951.png)
+)
 
 ```
 print("Saya sedang belajar python")
